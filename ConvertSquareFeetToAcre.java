@@ -1,11 +1,3 @@
-/*****************************************************************/
-/* This program is to convert the area from square feet to acres */
-/* Name: Muhamad Izrin Syafiq bin Ahmad Jalil                    */
-/* Matric Number: 206845                                         */
-/* Assignment 1 : Question 1(a)                                  */
-/* Course: SSK3100 Computer Programming I                        */
-/* Date: 5 Nov 2020                                              */
-/*****************************************************************/
 import java.util.Scanner;
 public class ConvertSquareFeetToAcre {//open class
 
