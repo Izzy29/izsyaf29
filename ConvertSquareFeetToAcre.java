@@ -1,5 +1,5 @@
 /*****************************************************************/
-/* This program is to find average test mark                     */
+/* This program is to convert the area from square feet to acres */
 /*****************************************************************/
 import java.util.Scanner;
 public class ConvertSquareFeetToAcre {//open class
