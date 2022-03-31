@@ -1,3 +1,6 @@
+/*****************************************************************/
+/* This program is to find average test mark                     */
+/*****************************************************************/
 import java.util.Scanner;
 public class CalculateAveForThreeMarks {//open class
 
