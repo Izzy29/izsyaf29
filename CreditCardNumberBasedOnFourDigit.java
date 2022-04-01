@@ -1,10 +1,5 @@
 /*****************************************************************/
 /* This program is to create card numbers based on 4-digit number*/
-/* Name: Muhamad Izrin Syafiq bin Ahmad Jalil                    */
-/* Matric Number: 206845                                         */
-/* Assignment 2 : Question 2                                     */
-/* Course: SSK3100 Computer Programming I                        */
-/* Date: 18 Nov 2020                                             */
 /*****************************************************************/
 import java.util.Scanner;
 public class CreditCardNumberBasedOnFourDigit {//open class
